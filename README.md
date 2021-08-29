@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>I'm Prem Kumar, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Cuddalore, Tamil Nadu.</b> 
-<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development. To know more about me <a href="https://prekumar.web.app">here</a> </p>
+<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development. To know more about me <a href="https://premkumar.web.app">here</a> </p>
 
 ## ⚡ Things I code with
 
