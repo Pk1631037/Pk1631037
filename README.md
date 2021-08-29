@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Prem Kumar, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Cuddalore, Tamil Nadu.</b> 
+<p>I'm Prem Kumar, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Cuddalore, Tamil Nadu.</b> 
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development.</p>
 
 ## ⚡ Things I code with
@@ -14,7 +14,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -30,18 +29,11 @@
 
 ## 😄 Cool Stats
 
-![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragavkumarv&show_icons=true&theme=radical)
+![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pk1631037&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ragavkumarv&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pk1631037&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ragavkumarv&layout=compact&theme=radical&langs_count=6)
-
-<!-- <h3>Where to find me</h3> -->
-<!-- <p> -->
-<!-- <a href="https://github.com/ragavkumarv" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
-<!-- <a href="https://twitter.com/ragavkumarv" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
-<!-- <a href="https://www.linkedin.com/in/ragavkumarv/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/linkedin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<!-- </p> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pk1631037&layout=compact&theme=radical&langs_count=6)
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
