@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Premkumar</h1>
 
 <p>Software Engineer and Open Source Enthusiast from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Cuddalore, Tamil Nadu.</b> 
-<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning and teaching web development. To know more about me <a href="https://premkumar.web.app">here</a> </p>
+<br/>To know more about me <a href="https://premkumar.web.app">here</a> </p>
 
 ## ⚡ Things I code with
 
